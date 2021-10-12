@@ -17,6 +17,10 @@ class Unicorn # UpperCamelCase - Constant
     puts "Hello my name is #{@name}"
   end
 
+  def give_me_4
+    3
+  end
+
   # def name # Long hand form of the attr_reader
   #   @name
   # end

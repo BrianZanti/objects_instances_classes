@@ -18,7 +18,7 @@ class Unicorn # UpperCamelCase - Constant
   end
 
   def give_me_4
-    3
+    4
   end
 
   # def name # Long hand form of the attr_reader
